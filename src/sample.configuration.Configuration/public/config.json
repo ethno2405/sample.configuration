@@ -1,2 +1,9 @@
 {
+  "Name": null,
+  "References": [],
+  "Defaults": {
+    "submit": "Save"
+  },
+  "Clusters": {},
+  "Machines": {}
 }
