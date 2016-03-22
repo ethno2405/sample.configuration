@@ -1,7 +1,1 @@
-{
-  "Name": "sample.app.configuration",
-  "References": [],
-  "Defaults": {},
-  "Clusters": {},
-  "Machines": {}
-}
+{"Name":"sample.app.configuration","References":[],"Defaults":{},"Clusters":{"testCluster":{}},"Machines":{}}
