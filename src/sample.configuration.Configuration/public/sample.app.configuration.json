@@ -7,7 +7,11 @@
     "setting3": "value3"
   },
   "Clusters": {
-    "testCluster": {}
+    "testCluster": {
+      "setting1": "clusterValue1",
+      "setting2": "clusterValue2",
+      "setting3": "clusterValue3"
+    }
   },
   "Machines": {
     "myMachine": {
