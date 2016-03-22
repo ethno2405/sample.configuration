@@ -3,8 +3,7 @@
   "References": [],
   "Defaults": {
     "setting1": "newValue1",
-    "setting2": "value2",
-    "setting3": "value3"
+    "setting2": "value2"
   },
   "Clusters": {
     "testCluster": {
