@@ -9,5 +9,7 @@
   "Clusters": {
     "testCluster": {}
   },
-  "Machines": {}
+  "Machines": {
+    "myMachine": {}
+  }
 }
