@@ -10,6 +10,10 @@
     "testCluster": {}
   },
   "Machines": {
-    "myMachine": {}
+    "myMachine": {
+      "setting1": "machineValue1",
+      "setting2": "machineValue2",
+      "setting3": "machineValue3"
+    }
   }
 }
