@@ -13,5 +13,7 @@
       "setting3": "clusterValue3"
     }
   },
-  "Machines": {}
+  "Machines": {
+    "machine": {}
+  }
 }
