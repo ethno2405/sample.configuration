@@ -1,7 +1,11 @@
 {
   "Name": "sample.app.configuration",
   "References": [],
-  "Defaults": {},
+  "Defaults": {
+    "setting1": "newValue1",
+    "setting2": "value2",
+    "setting3": "value3"
+  },
   "Clusters": {
     "testCluster": {
       "setting1": "clusterValue1",
