@@ -1,1 +1,23 @@
-{"Name":"sample.app.configuration","References":[],"Defaults":{"setting1":"newValue1","setting2":"value2","setting3":"value3333"},"Clusters":{"testCluster":{"setting1":"clusterValue1","setting2":"clusterValue2","setting3":"clusterValue3"},"secondCluster":{},"fourthCluster":{},"thirdCluster":{"setting1":"newValue1","setting2":"value2","setting3":"value3"},"newCluster":{}},"Machines":{"machine":{}}}
+{
+  "Name": "sample.app.configuration",
+  "References": [],
+  "Defaults": {},
+  "Clusters": {
+    "testCluster": {
+      "setting1": "clusterValue1",
+      "setting2": "clusterValue2",
+      "setting3": "clusterValue3"
+    },
+    "secondCluster": {},
+    "fourthCluster": {},
+    "thirdCluster": {
+      "setting1": "newValue1",
+      "setting2": "value2",
+      "setting3": "value3"
+    },
+    "newCluster": {}
+  },
+  "Machines": {
+    "machine": {}
+  }
+}
