@@ -4,7 +4,8 @@
   "Defaults": {
     "setting1": "value1",
     "setting2": "value2",
-    "setting3": "value333"
+    "setting3": "value333",
+    "asdf4444": "ffs4444"
   },
   "Clusters": {
     "testCluster": {
