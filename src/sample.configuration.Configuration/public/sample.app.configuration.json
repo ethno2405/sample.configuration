@@ -11,11 +11,6 @@
     "setting7": "value7777777777"
   },
   "Clusters": {
-    "testCluster": {
-      "setting1": "clusterValue1",
-      "setting2": "clusterValue2",
-      "setting3": "clusterValue3"
-    },
     "secondCluster": {},
     "fourthCluster": {},
     "thirdCluster": {
@@ -23,7 +18,16 @@
       "setting2": "value2",
       "setting3": "value3"
     },
-    "newCluster": {}
+    "newCluster": {},
+    "testCluster": {
+      "0": null,
+      "1": null,
+      "2": null,
+      "3": null,
+      "4": null,
+      "5": null,
+      "6": null
+    }
   },
   "Machines": {
     "machine": {}
