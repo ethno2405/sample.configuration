@@ -29,14 +29,15 @@
     }
   },
   "Machines": {
+    "local": {},
     "machine": {
       "setting1": "value1",
       "setting2": "value2",
       "setting3": "value333",
       "asdf4444": "ffs4444",
       "55555": "55",
-      "666": "6"
-    },
-    "local": {}
+      "666": "6",
+      "setting7": "value77"
+    }
   }
 }
