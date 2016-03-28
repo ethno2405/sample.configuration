@@ -19,7 +19,15 @@
       "setting3": "value3"
     },
     "newCluster": {},
-    "testCluster": {}
+    "testCluster": {
+      "setting1": "value11111",
+      "setting2": "value2",
+      "setting3": "value333",
+      "asdf4444": "ffs4444",
+      "55555": "55",
+      "666": "6",
+      "setting7": "value7777777777"
+    }
   },
   "Machines": {
     "machine": {}
