@@ -2,13 +2,13 @@
   "Name": "sample.app.configuration",
   "References": [],
   "Defaults": {
-     "setting1": "value1",
-      "setting2": "value2",
-      "setting3": "value333",
-      "asdf4444": "ffs4444",
-      "55555": "55",
-      "666": "6",
-      "setting7": "value77"
+    "setting1": "value11",
+    "setting2": "value2",
+    "setting3": "value333",
+    "asdf4444": "ffs4444",
+    "55555": "55",
+    "666": "6",
+    "setting7": "value77"
   },
   "Clusters": {
     "secondCluster": {},
